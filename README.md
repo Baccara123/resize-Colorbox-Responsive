@@ -1,4 +1,5 @@
 # Option for resize colorbox()
+# Responsive colorbox
 
 var cboxOptions = {
   width: '95%',
